@@ -895,7 +895,7 @@
     "category": "people"
   },
   "dress": {
-    "keywords": ["clothes", "fashion", "shopping"],
+    "keywords": ["clothes", "fashion", "shopping", "skater"],
     "char": "👗",
     "category": "people"
   },
@@ -1625,7 +1625,7 @@
     "category": "animals_and_nature"
   },
   "comet": {
-    "keywords": ["space"],
+    "keywords": ["space", "blue_beam", "light_beam"],
     "char": "☄",
     "category": "animals_and_nature"
   },
